@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Create New">6ea293f1db3710107b717b6039961971</button>
+        <item_parameter display_value="Requested for email">b0d153b1db3710107b717b603996199d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 19:13:54</sys_created_on>
+        <sys_id>0bd61775db3710107b717b60399619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0d153b1db3710107b717b603996199d</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_0bd61775db3710107b717b60399619b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 19:13:54</sys_updated_on>
+        <ui_parameter display_value="Requested for email">e9f35bf1db3710107b717b6039961916</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>fd539b0fdb30b3409df22f17d4961957</instance_id>
+        <instance_name>dev81899</instance_name>
+        <name>sys_sg_action_param_map_0bd61775db3710107b717b60399619b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Create New">6ea293f1db3710107b717b6039961971</button><item_parameter display_value="Requested for email">b0d153b1db3710107b717b603996199d</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-12 19:13:54</sys_created_on><sys_id>0bd61775db3710107b717b60399619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>b0d153b1db3710107b717b603996199d</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_action_param_map_0bd61775db3710107b717b60399619b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-12 19:13:54</sys_updated_on><ui_parameter display_value="Requested for email">e9f35bf1db3710107b717b6039961916</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>-2008744994</payload_hash>
+        <record_name>b0d153b1db3710107b717b603996199d</record_name>
+        <reverted_from/>
+        <source>dc0202b6db2750107b717b603996190f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 19:13:54</sys_created_on>
+        <sys_id>3107d7b5db3710107b717b60399619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1751e3bc3680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 19:13:54</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>7907d7b5123710102d89a72ad097f0a6</update_guid>
+        <update_guid_history>7907d7b5123710102d89a72ad097f0a6:-2008744994</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 19:15:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>8f53a8353cb44c0bbc41c996e115bf89</sys_id>
+        <sys_metadata>0bd61775db3710107b717b60399619b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0d153b1db3710107b717b603996199d</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_0bd61775db3710107b717b60399619b9</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_0bd61775db3710107b717b60399619b9">3107d7b5db3710107b717b60399619a7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 19:15:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
